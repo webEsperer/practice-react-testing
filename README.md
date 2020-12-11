@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# [![](assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React: Testing
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Obsługa błędów oraz pisanie testów jednostkowych czy intergracyjnych to bardzo ważna część pracy programisty. Pozwala ona utrzymywać kod o wysokiej jakości. Każda zmiana w implementacji jest od razu testowana i pozwala to dość szybko wychwycić ewentualne problemy.
 
-## Available Scripts
+Dlatego tym razem do zrealizowania zadań będzie Ci potrzeba wiedza z zakresu:
+- obsługa błędów przy pomocy `try ... catch` oraz `.getDerivedStateFromError()`
+- tworzenie atrap przy pomocy Mocków oraz `.spyOn()`
+- testowanie komponentów za pomocą *Jest* oraz *React Testing Library* 
 
-In the project directory, you can run:
+&nbsp;
 
-### `yarn start`
+**Zadania:** :point_right: [:one:](./01) &nbsp; [:two:](./02) &nbsp; [:three:](./03) &nbsp; [:four:](./04) &nbsp; [:five:](./05) :triangular_flag_on_post:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+&nbsp;
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+> :warning: Jeśli potrzebujesz materiałów do zadań to znajdziesz je na stronie :books:[devmentor.pl](https://devmentor.pl)
 
-### `yarn test`
+> :white_check_mark: Wykonanie każdego z zadań bez problemów będzie oznaczać, że jesteś gotowy, aby przejść do następnych zagadnień :arrow_right:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Jak wykonać zadania?
 
-### `yarn build`
+Po pobraniu plików (o czym za chwilę) należy wykonywać zadania zgodnie z numerami - od najniższego numeru do najwyższego. Zgodnie z ich treścią, którą znajdziesz w pliku README.md w każdym z katalogów. Poziom trudności stopniowo się zwiększa.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Mamy dwie ścieżki dla pobrania plików:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Chcę od razu przejść do zadań
+- Mam już doświadczenie z GitHub-em i GIT-em
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Chcę od razu przejść do zadań
 
-### `yarn eject`
+Po prawej stronie znajdziesz przycisk "clone or download" - kliknij go.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Powinien pojawić się element, w którym znajdziesz opcje "Download ZIP" - ponownie wykonaj klik.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Teraz wystarczy, że rozpakujesz pobrane plik i otworzysz w swoim ulubionym edytorze (proponuję [VSC](https://code.visualstudio.com/)).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Mam już doświadczenie z GitHub-em i GIT-em
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Najwygodniej będzie wykonać `fork` (prawy górny róg strony), co utworzy kopie tego repozytorium na Twoim koncie GitHub i będziesz mógł wykonywać zadania na swoim repozytorium.
 
-## Learn More
+Dzieki temu rozwiązaniu będę mógł śledzić postępy Twojej pracy nad zadaniami.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+&nbsp;
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> Powodzenia! :zap: :zap: :zap: Mateusz Bogolubow, [devmentor.pl](https://devmentor.pl)

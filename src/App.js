@@ -1,25 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import Task01 from './Task01';
+import Task02 from './Task02';
+import Task03 from './Task03';
+import Task04 from './Task04';
+import Task05 from './Task05';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+    function tryAuth(login, password) {
+        return login.length + password.length >= 6;
+    }
+
+    return (
+        <div className="App">
+            <Task01 tryAuth={ tryAuth } />
+            <hr/>
+            <Task02 />
+            <hr/>
+            <Task03 />
+            <hr/>
+            <Task04 />
+            <hr/>
+            <Task05 />
+        </div>
+    );
 }
 
 export default App;
