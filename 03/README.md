@@ -10,6 +10,9 @@ Sprawdź przynajmniej kilka rzeczy:
 - czy tekst wprowadzony do pola formularza pojawia się w `.data-text`
 - czy wysłanie formularza (event `submit`) powoduje wczytanie załadowanie danych do `.data-md5`
 - czy zmiana danych w `<input>` powoduje wyczyszczenie `.data-md5`
+> *Możesz użyć [container + .querySelector()](https://testing-library.com/docs/queries/about/#manual-queries) - pamiętaj tylko, aby nie nadużywać w swoich testach tego rozwiązania!*
+
+&nbsp;
 
 > Jeśli pierwsz raz spotykasz sie z MD5 to dosyłam Cię do [wikipedii](https://pl.wikipedia.org/wiki/MD5).
 
