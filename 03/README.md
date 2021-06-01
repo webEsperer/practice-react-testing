@@ -1,8 +1,9 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React: Testing #03
-
-> :loudspeaker: Jeśli chciałbyś więcej tego typu zadań to zapraszam do :moneybag: [wsparcia mojego konta](https://github.com/sponsors/devmentor-pl)!
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e09-react-testing` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
 
 &nbsp;
+
+# `#03` React: Testowanie
+
 
 Twoim zadaniem jest napisanie testów dla komponentu `<Md5Form>` z wykorzystaniem `.spyOn()`.
 
@@ -14,9 +15,4 @@ Sprawdź przynajmniej kilka rzeczy:
 
 &nbsp;
 
-> Jeśli pierwsz raz spotykasz sie z MD5 to dosyłam Cię do [wikipedii](https://pl.wikipedia.org/wiki/MD5).
-
-&nbsp;
-
-> :warning: Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl)
-
+> :arrow_left: [*poprzednie zadanie*](./../02) | [*następne zadanie*](./../04) :arrow_right:
