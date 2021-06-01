@@ -1,8 +1,8 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React: Testing #02
-
-> :loudspeaker: Jeśli chciałbyś więcej tego typu zadań to zapraszam do :moneybag: [wsparcia mojego konta](https://github.com/sponsors/devmentor-pl)!
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e09-react-testing` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
 
 &nbsp;
+
+# `#02` React: Testowanie
 
 Tym razem Twoim zadaniem będzie napisanie testów przy pomocy *Jest* oraz *React Testing Library* dla komponentu `<LoginForm>`.
 
@@ -10,4 +10,4 @@ Dla propsa o nazwie `tryAuth()` utwórz odpowiedni *Mock*, który umożliwi Ci p
 
 &nbsp;
 
-> :warning: Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl)
+> :arrow_left: [*poprzednie zadanie*](./../01) | [*następne zadanie*](./../03) :arrow_right:
