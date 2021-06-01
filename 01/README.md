@@ -1,8 +1,9 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React: Testing #01
-
-> :loudspeaker: Jeśli chciałbyś więcej tego typu zadań to zapraszam do :moneybag: [wsparcia mojego konta](https://github.com/sponsors/devmentor-pl)!
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e09-react-testing` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
 
 &nbsp;
+
+# `#01` React: Testowanie
+
 
 W lokalizacji `./src/components/Task01.js` znajdziesz komponent, który renderuje formulrz.
 
@@ -16,5 +17,6 @@ Twoim zadaniem jest obsługa tych błędów:
 
 > **Uwaga** Pamiętaj, aby zainstalować wszystkie paczki zapisane w `package.json` przy pomocy `npm i`. Uruchomienie serwera jak zwykle odbywa się przez `npm start`.
 
+&nbsp;
 
-> :warning: Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl)
+> :arrow_left: ~~*poprzednie zadanie*~~ | [*następne zadanie*](./../02) :arrow_right:
