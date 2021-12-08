@@ -4,9 +4,9 @@
 
 # `#02` React: Testowanie
 
-Tym razem Twoim zadaniem będzie napisanie testów przy pomocy *Jest* oraz *React Testing Library* dla komponentu `<LoginForm>`.
+Tym razem Twoim zadaniem będzie napisanie testów dla komponentu `<LoginForm>` przy pomocy Jesta oraz React Testing Library.
 
-Dla propsa o nazwie `tryAuth()` utwórz odpowiedni *Mock*, który umożliwi Ci przetestowanie różnych scenariuszy.
+Dla propsa o nazwie `tryAuth()` utwórz odpowiedni mock, który umożliwi Ci przetestowanie różnych scenariuszy.
 
 &nbsp;
 
