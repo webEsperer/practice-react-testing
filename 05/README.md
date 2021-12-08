@@ -4,11 +4,11 @@
 
 # `#05` React: Testowanie
 
-Tym razem musisz napisać testy oraz komponent, który pozwoli wprowadzać dane kart płatniczych.
+Tym razem napiszesz testy oraz stworzysz komponent, który pozwoli wprowadzać dane kart płatniczych.
 
 Komponent ten powinien sprawdzać poprawność danych oraz wyświetlać nazwę producenta (np. Visa, MasterCard, American Express).
 
-Opis aglorytmu znajdziesz na [tej stronie](https://romek.info/ut/banki.html#visa).
+Opis algorytmu pomocnego w weryfikacji numerów kart znajdziesz na [tej stronie](https://romek.info/ut/banki.html#visa).
 
 &nbsp;
 
