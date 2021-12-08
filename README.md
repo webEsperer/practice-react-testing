@@ -1,16 +1,15 @@
-
 > :dart: *Chcę mieć absolutną pewność, że **darmowe materiały**, które publikuję, spełniają Twoje oczekiwania. Dlatego oferuję Ci ebooka o wartości 39 PLN: `Jak zostać programistą? SKUTECZNY PRZEWODNIK` w zamian za [wypełnienie ankiety](https://devmentor.pl/ankieta).*
 
 &nbsp;
 
 # React: Testowanie
 
-Obsługa błędów oraz pisanie testów jednostkowych czy intergracyjnych to bardzo ważna część pracy programisty. Pozwala ona utrzymywać kod o wysokiej jakości. Każda zmiana w implementacji jest od razu testowana i pozwala to dość szybko wychwycić ewentualne problemy.
+Obsługa błędów oraz pisanie testów jednostkowych czy integracyjnych to bardzo ważna część pracy programisty. Pozwala ona utrzymywać kod o wysokiej jakości. Każda zmiana w implementacji jest od razu testowana, co pozwala dość szybko wychwycić ewentualne problemy.
 
 Dlatego tym razem do zrealizowania zadań będzie Ci potrzeba wiedza z zakresu:
-- obsługa błędów przy pomocy `try ... catch` oraz `.getDerivedStateFromError()`
-- tworzenie atrap przy pomocy Mocków oraz `.spyOn()`
-- testowanie komponentów za pomocą *Jest* oraz *React Testing Library* 
+- obsługi błędów przy pomocy `try...catch` oraz `.getDerivedStateFromError()`
+- tworzenia atrap przy pomocy mocków oraz `.spyOn()`
+- testowania komponentów za pomocą frameworka Jest oraz React Testing Library.
 
 &nbsp;
 
