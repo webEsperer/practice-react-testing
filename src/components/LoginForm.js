@@ -57,7 +57,7 @@ function LoginForm(props) {
             </p>
             <p>
                 <label>
-                    pasword: <input name="password" value={ password.value } onChange={e => handleChange(e)} />
+                    password: <input name="password" value={ password.value } onChange={e => handleChange(e)} />
                     { password.error && <strong>{ password.error }</strong> }
                 </label>
             </p>
